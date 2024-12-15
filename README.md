@@ -16,7 +16,7 @@ This project is an interactive grid simulation that demonstrates real-time grid 
 ![Screenshot 4](assets/running-state-3.png)
 ![Screenshot 5](assets/running-state-4.png)
 ![Screenshot 6](assets/control-panel.png)
-![Screenshot 7](assets/speed-control.png)
+![Screenshot 7](src/assets/speed-control.png)
 ![Screenshot 8](assets/use-of-reset.png)
 
 ## Video Demonstration
