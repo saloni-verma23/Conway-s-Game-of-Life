@@ -10,14 +10,14 @@ This project is an interactive grid simulation that demonstrates real-time grid 
 - **HTML/CSS**: For structuring and styling the app.
 
 ## Screenshots
-![Screenshot 1](assets/initial-grid-state.png)
-![Screenshot 2](assets/running-state-1.png)
-![Screenshot 3](assets/running-state-2.png)
-![Screenshot 4](assets/running-state-3.png)
-![Screenshot 5](assets/running-state-4.png)
-![Screenshot 6](assets/control-panel.png)
+![Screenshot 1](src/assets/initial-grid-state.png)
+![Screenshot 2](src/assets/running-state-1.png)
+![Screenshot 3](src/assets/running-state-2.png)
+![Screenshot 4](src/assets/running-state-3.png)
+![Screenshot 5](src/assets/running-state-4.png)
+![Screenshot 6](src/assets/control-panel.png)
 ![Screenshot 7](src/assets/speed-control.png)
-![Screenshot 8](assets/use-of-reset.png)
+![Screenshot 8](src/assets/use-of-reset.png)
 
 ## Video Demonstration
 [Watch the video on YouTube](https://www.youtube.com/watch?v=2OZWzTtCj6c)
